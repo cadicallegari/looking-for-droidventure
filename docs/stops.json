@@ -1,0 +1,131 @@
+{
+    "rows": [
+        {
+            "id": 26,
+            "name": "TICEN",
+            "sequence": 1,
+            "route_id": 32
+        },
+        {
+            "id": 27,
+            "name": "RUA PROCURADOR ABELARDO GOMES",
+            "sequence": 2,
+            "route_id": 32
+        },
+        {
+            "id": 28,
+            "name": "AVENIDA PAULO FONTES",
+            "sequence": 3,
+            "route_id": 32
+        },
+        {
+            "id": 29,
+            "name": "RUA DOUTOR ÁLVARO MILLEN DA SILVEIRA",
+            "sequence": 4,
+            "route_id": 32
+        },
+        {
+            "id": 30,
+            "name": "RUA DOUTOR JORGE DA LUZ FONTES",
+            "sequence": 5,
+            "route_id": 32
+        },
+        {
+            "id": 31,
+            "name": "RUA SILVA JARDIM",
+            "sequence": 6,
+            "route_id": 32
+        },
+        {
+            "id": 32,
+            "name": "AVENIDA MAURO RAMOS",
+            "sequence": 7,
+            "route_id": 32
+        },
+        {
+            "id": 33,
+            "name": "AVENIDA JORNALISTA RUBENS DE ARRUDA RAMOS",
+            "sequence": 8,
+            "route_id": 32
+        },
+        {
+            "id": 34,
+            "name": "RUA COMANDANTE CONSTANTINO NICOLAU SPYRIDES",
+            "sequence": 9,
+            "route_id": 32
+        },
+        {
+            "id": 35,
+            "name": "RUA DELMINDA SILVEIRA",
+            "sequence": 10,
+            "route_id": 32
+        },
+        {
+            "id": 36,
+            "name": "AVENIDA PROFESSOR HENRIQUE DA SILVA FONTES",
+            "sequence": 11,
+            "route_id": 32
+        },
+        {
+            "id": 37,
+            "name": "TITRI",
+            "sequence": 12,
+            "route_id": 32
+        },
+        {
+            "id": 38,
+            "name": "RUA PROFESSOR MILTON ROQUE RAMOS KRIEGER",
+            "sequence": 13,
+            "route_id": 32
+        },
+        {
+            "id": 39,
+            "name": "RUA LAURO LINHARES",
+            "sequence": 14,
+            "route_id": 32
+        },
+        {
+            "id": 40,
+            "name": "RUA DELMINDA SILVEIRA",
+            "sequence": 15,
+            "route_id": 32
+        },
+        {
+            "id": 41,
+            "name": "RUA RUI BARBOSA",
+            "sequence": 16,
+            "route_id": 32
+        },
+        {
+            "id": 42,
+            "name": "RUA FREI CANECA",
+            "sequence": 17,
+            "route_id": 32
+        },
+        {
+            "id": 43,
+            "name": "RUA HEITOR LUZ",
+            "sequence": 18,
+            "route_id": 32
+        },
+        {
+            "id": 44,
+            "name": "AVENIDA MAURO RAMOS",
+            "sequence": 19,
+            "route_id": 32
+        },
+        {
+            "id": 45,
+            "name": "RUA SILVA JARDIM",
+            "sequence": 20,
+            "route_id": 32
+        },
+        {
+            "id": 46,
+            "name": "AVENIDA GOVERNADOR GUSTAVO RICHARD",
+            "sequence": 21,
+            "route_id": 32
+        }
+    ],
+    "rowsAffected": 0
+}
